@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 13\\Hour22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE916BE-CFE1-4B45-75A1-7493BDDF5067}|Assembly-CSharp.csproj|c:\\users\\lilli\\onedrive\\desktop\\robbys_homework\\swdv 271\\week 13\\hour22\\assets\\inputscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE916BE-CFE1-4B45-75A1-7493BDDF5067}|Assembly-CSharp.csproj|solutionrelative:assets\\inputscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputScript.cs",
+              "DocumentMoniker": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 13\\Hour22\\Assets\\InputScript.cs",
+              "RelativeDocumentMoniker": "Assets\\InputScript.cs",
+              "ToolTip": "C:\\Users\\lilli\\OneDrive\\Desktop\\Robbys_Homework\\SWDV 271\\Week 13\\Hour22\\Assets\\InputScript.cs",
+              "RelativeToolTip": "Assets\\InputScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:42:31.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
